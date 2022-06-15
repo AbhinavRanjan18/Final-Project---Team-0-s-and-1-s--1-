@@ -1,0 +1,14 @@
+{
+  "name": "@npogeant/crypto-market-top-100-currencies",
+  "main": "4af37b5b43cce051@342.js",
+  "version": "342.0.0",
+  "homepage": "https://observablehq.com/@npogeant/crypto-market-top-100-currencies",
+  "author": {
+    "name": "Nicolas",
+    "url": "https://observablehq.com/@npogeant"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
